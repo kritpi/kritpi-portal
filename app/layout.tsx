@@ -12,6 +12,9 @@ export const metadata: Metadata = {
   title: "Kritpiruch Chaiwong | Portfolio & CV",
   description:
     "Editorial portfolio and print-ready CV for Kritpiruch Chaiwong, showcasing backend systems, real-time collaboration work, and cloud-native projects.",
+  icons: {
+    icon: "https://em-content.zobj.net/source/apple/453/thong-sandal_1fa74.png",
+  },
 };
 
 export default function RootLayout({
